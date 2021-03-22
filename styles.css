@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25;
+    color: white;
+    overflow: hidden;
+}
+
+#canvas {
+    border: 2px solid grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25;
+}
+
+img {
+    display: none;
+}
+
